@@ -15,4 +15,3 @@ containrrr/watchtower:latest
 ddsderek/xiaoya-emd:latest
 xiaoyaliu/alist:latest
 jellyfin/jellyfin
-
