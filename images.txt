@@ -16,4 +16,3 @@ ddsderek/xiaoya-emd:latest
 xiaoyaliu/alist:latest
 jellyfin/jellyfin
 hslr/sun-panel
-openlistteam/openlist
